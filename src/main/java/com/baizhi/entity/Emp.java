@@ -7,6 +7,11 @@ public class Emp implements Serializable{
 	private String name;
 	private double salary;
 	private int age;
+	
+	
+	
+	
+	
 	public Integer getId() {
 		return id;
 	}
